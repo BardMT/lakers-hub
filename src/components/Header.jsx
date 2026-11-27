@@ -1,6 +1,10 @@
+import './Header.css'
+
 function Header () {
     return (
-        <header> Lakers Hub</header>
+        <header>
+            <h1>Lakers Hub</h1>
+        </header>
     )
 }
 
